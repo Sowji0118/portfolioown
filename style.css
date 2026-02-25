@@ -890,7 +890,7 @@ footer {
     }
 
     .about-image {
-        display: none;
+        display: flex; justify-content: center; margin-bottom: 40px; order: -1;
     }
 }
 
